@@ -1,6 +1,6 @@
 # Click Vibration
 
-## Button er onClick er modhe ai code ta likhun:
+## onClick Listenar :
 
 ```
 Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
